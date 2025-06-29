@@ -1,0 +1,3 @@
+/Users/mirorogers/Documents/Documents-Vault/Projects/Personal Projects/ray-tracing/CMakeFiles/renderer.dir
+/Users/mirorogers/Documents/Documents-Vault/Projects/Personal Projects/ray-tracing/CMakeFiles/edit_cache.dir
+/Users/mirorogers/Documents/Documents-Vault/Projects/Personal Projects/ray-tracing/CMakeFiles/rebuild_cache.dir
