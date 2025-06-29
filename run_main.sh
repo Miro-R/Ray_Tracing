@@ -1,2 +1,1 @@
-g++ main.cpp -o ray-trace
-./ray-trace
+raytrace_build/renderer > image.ppm
