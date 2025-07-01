@@ -239,4 +239,5 @@ CMakeFiles/renderer.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/math.h \
-  /Users/mirorogers/Documents/Documents-Vault/Projects/Personal\ Projects/ray-tracing/color.h
+  /Users/mirorogers/Documents/Documents-Vault/Projects/Personal\ Projects/ray-tracing/color.h \
+  /Users/mirorogers/Documents/Documents-Vault/Projects/Personal\ Projects/ray-tracing/ray.h
